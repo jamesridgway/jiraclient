@@ -1,11 +1,11 @@
 # JIRA Client
-`jiraclient` is a simple API client for JIRA, written in Ruby.
+JiraClient is a simple API client for JIRA, written in Ruby.
 
 ## Installation
 Add this line to your application's Gemfile:
 
 ```ruby
-gem 'jiraclient'
+gem 'JiraClient'
 ```
 
 And then execute:
@@ -14,7 +14,7 @@ And then execute:
 
 Or install it yourself as:
 
-    $ gem install jiraclient
+    $ gem install JiraClient
 
 ## Development
 After checking out the repo, run `bin/setup` to install dependencies. Then, run `rake spec` to run the tests. You can also run `bin/console` for an interactive prompt that will allow you to experiment.
