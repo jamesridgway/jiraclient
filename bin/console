@@ -10,5 +10,6 @@ require 'jiraclient'
 # require "pry"
 # Pry.start
 
+include Jiraclient
 require 'irb'
 IRB.start

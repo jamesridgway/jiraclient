@@ -1,5 +1,5 @@
 require 'jiraclient/version'
+require 'jiraclient/client'
 
 module Jiraclient
-  # Your code goes here...
 end
