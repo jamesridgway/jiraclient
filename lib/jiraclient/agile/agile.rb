@@ -1,9 +1,9 @@
 require 'httparty'
 require 'jiraclient/agile/boards'
-module Jiraclient
+module JiraClient
   module Agile
     class Agile
-      include Jiraclient::Agile
+      include JiraClient::Agile
       def initialize(base_uri, options)
         @base_uri = base_uri
         @global_options = options

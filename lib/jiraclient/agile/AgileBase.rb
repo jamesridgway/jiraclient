@@ -1,5 +1,5 @@
 require 'uri'
-module Jiraclient
+module JiraClient
   module Agile
     class AgileBase
       def querystring_options(options)

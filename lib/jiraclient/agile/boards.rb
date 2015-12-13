@@ -1,6 +1,6 @@
 require 'httparty'
 require 'jiraclient/agile/AgileBase'
-module Jiraclient
+module JiraClient
   module Agile
     class Boards < AgileBase
       include HTTParty

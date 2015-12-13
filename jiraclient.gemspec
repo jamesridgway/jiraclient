@@ -4,8 +4,8 @@ $LOAD_PATH.unshift(lib) unless $LOAD_PATH.include?(lib)
 require 'jiraclient/version'
 
 Gem::Specification.new do |spec|
-  spec.name          = 'jiraclient'
-  spec.version       = Jiraclient::VERSION
+  spec.name          = 'JiraClient'
+  spec.version       = JiraClient::VERSION
   spec.authors       = ['James Ridgway']
   spec.email         = ['myself@james-ridgway.co.uk']
 

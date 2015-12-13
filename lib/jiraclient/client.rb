@@ -1,7 +1,7 @@
 require 'jiraclient/agile/agile'
 require 'jiraclient/projects'
 
-module Jiraclient
+module JiraClient
   class Client
     attr_reader :base_uri
 

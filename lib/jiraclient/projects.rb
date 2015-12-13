@@ -1,5 +1,5 @@
 require 'httparty'
-module Jiraclient
+module JiraClient
   class Projects
     include HTTParty
 
