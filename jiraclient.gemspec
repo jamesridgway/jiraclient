@@ -11,7 +11,7 @@ Gem::Specification.new do |spec|
 
   spec.summary       = 'A JIRA API client'
   spec.description   = 'A JIRA API client'
-  spec.homepage      = 'http://www.james-ridgway.co.uk'
+  spec.homepage      = 'https://github.com/jamesridgway/jiraclient'
   spec.license       = 'MIT'
 
   spec.files         = `git ls-files -z`.split("\x0").reject { |f| f.match(%r{^(test|spec|features)/}) }
